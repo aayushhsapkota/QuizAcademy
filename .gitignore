@@ -1,1 +1,13 @@
-packages
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+
